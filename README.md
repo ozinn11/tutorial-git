@@ -1,4 +1,3 @@
-165479
 # Guia Básico para Criar Conta e Usar o GitHub
 
 Este guia explica como criar uma conta no GitHub, como usar o GitHub, além dos comandos básicos do Git para começar a versionar e colaborar em projetos.
